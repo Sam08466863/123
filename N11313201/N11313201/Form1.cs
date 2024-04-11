@@ -28,6 +28,13 @@ namespace N11313201
             form.Show();
         }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form form = new Form2();
+
+            form.Show();
+
+        }
     }
 }
 
