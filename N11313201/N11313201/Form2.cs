@@ -53,5 +53,10 @@ namespace N11313201
 
 
         }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

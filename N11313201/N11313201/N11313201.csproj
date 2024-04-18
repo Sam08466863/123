@@ -64,6 +64,18 @@
     <Compile Include="Form2Button.Designer.cs">
       <DependentUpon>Form2Button.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MindExam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MindExam.Designer.cs">
+      <DependentUpon>Form_MindExam.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -74,6 +86,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form2Button.resx">
       <DependentUpon>Form2Button.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MindExam.resx">
+      <DependentUpon>Form_MindExam.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

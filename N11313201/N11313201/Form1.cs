@@ -35,6 +35,13 @@ namespace N11313201
             form.Show();
 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form form = new Form_MindExam();
+            form.Show();
+
+        }
     }
 }
 
