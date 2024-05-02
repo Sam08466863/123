@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace N11313201
 {
@@ -49,7 +50,15 @@ namespace N11313201
         {
             int a = Int32.Parse(textBox5.Text);
             int b = Int32.Parse(textBox6.Text);
-            label7.Text=(a/b).ToString();
+
+            if (b > 0)
+            {
+                label7.Text = (a / b).ToString();
+            }
+            else
+            {
+                label7.Text = "錯誤：分母不能為零";
+            }
 
 
         }
