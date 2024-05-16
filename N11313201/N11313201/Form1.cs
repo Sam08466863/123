@@ -42,6 +42,12 @@ namespace N11313201
             form.Show();
 
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form form = new Form4Gamecs();
+            form.Show();
+        }
     }
 }
 
