@@ -48,6 +48,18 @@ namespace N11313201
             Form form = new Form4Gamecs();
             form.Show();
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Form form = new Form77();
+            form.Show();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Form form = new Form66();
+            form.Show();
+        }
     }
 }
 

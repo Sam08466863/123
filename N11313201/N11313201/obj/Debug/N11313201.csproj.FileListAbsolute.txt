@@ -12,3 +12,5 @@ C:\Users\MEGAS\Desktop\123\N11313201\N11313201\obj\Debug\N11313201.Form2Button.r
 C:\Users\MEGAS\Desktop\123\N11313201\N11313201\obj\Debug\N11313201.Form2.resources
 C:\Users\MEGAS\Desktop\123\N11313201\N11313201\obj\Debug\N11313201.Form_MindExam.resources
 C:\Users\MEGAS\Desktop\123\N11313201\N11313201\obj\Debug\N11313201.Form4Gamecs.resources
+C:\Users\MEGAS\Desktop\123\N11313201\N11313201\obj\Debug\N11313201.Form77.resources
+C:\Users\MEGAS\Desktop\123\N11313201\N11313201\obj\Debug\N11313201.Form66.resources
