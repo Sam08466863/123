@@ -60,6 +60,12 @@ namespace N11313201
             Form form = new Form66();
             form.Show();
         }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Form form = new FormMenu();
+            form.Show(); 
+        }
     }
 }
 
